@@ -1,6 +1,6 @@
 # Automated-AI-Web-Researcher-Ollama
 
-## BRAND NEW SUCCESSOR PROGRAM 20x better which is hallucination proof and searches academic articles instead of the internet now released!!!:
+## BRAND NEW SUCCESSOR PROGRAM 20x larger codebase, and is hallucination proof and searches academic articles instead of the internet now released!!!:
 
 https://github.com/TheBlewish/Academic-AI-Literature-Reviewer-Ollama
 
