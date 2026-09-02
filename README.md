@@ -1,5 +1,9 @@
 # Automated-AI-Web-Researcher-Ollama
 
+## BRAND NEW SUCCESSOR PROGRAM 20x better which is hallucination proof and searches academic articles instead of the internet now released!!!:
+
+https://github.com/TheBlewish/Academic-AI-Literature-Reviewer-Ollama
+
 ## Description
 Automated-AI-Web-Researcher is an innovative research assistant that leverages locally run large language models through Ollama to conduct thorough, automated online research on any given topic or question. Unlike traditional LLM interactions, this tool actually performs structured research by breaking down queries into focused research areas, systematically investigating each area via web searching and scraping relevant websites, and compiling its findings. The findings are automatically saved into a text document with all the content found and links to the sources. Whenever you want it to stop its research, you can input a command, which will terminate the research. The LLM will then review all of the content it found and provide a comprehensive final summary of your original topic or question. Afterward, you can ask the LLM questions about its research findings.
 
